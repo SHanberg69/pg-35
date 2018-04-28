@@ -10,13 +10,14 @@ namespace Pg35
     {
         public answerpg35()
         {
+              public static int MathOne (int choice)
+            {
+               int MathOne = choice * 7;
+            }
 
         }
-
-        public int answer1 { get; set; }
-        public int answer2 { get; set; }
-        public int answer3 { get; set; }
-
+        
+       
         
         
     }
