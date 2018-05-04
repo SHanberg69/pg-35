@@ -1,0 +1,14 @@
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\obj\Debug\Pg35.csprojResolveAssemblyReference.cache
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\obj\Debug\Pg35.csproj.CoreCompileInputs.cache
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\bin\Debug\Pg35.exe.config
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\bin\Debug\Pg35.exe
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\bin\Debug\Pg35.pdb
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\obj\Debug\Pg35.exe
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\Pg35\Pg35\obj\Debug\Pg35.pdb
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\obj\Debug\Pg35.csprojResolveAssemblyReference.cache
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\obj\Debug\Pg35.csproj.CoreCompileInputs.cache
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\obj\Debug\Pg35.exe
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\obj\Debug\Pg35.pdb
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\bin\Debug\Pg35.exe.config
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\bin\Debug\Pg35.exe
+C:\Users\hanbe\OneDrive\Documents\Visual Studio 2017\Projects\String Functions\Pg35\Pg35\bin\Debug\Pg35.pdb
